@@ -1,0 +1,6 @@
+fontmake==3.8.1
+fontParts==0.11.0
+fonttools[ufo,lxml,woff,unicode]==4.50.0
+gftools==0.9.52
+fontbakery[ufo_sources]==0.11.2
+ufolint==1.2.0
