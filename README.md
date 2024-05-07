@@ -18,9 +18,11 @@ If you have Python 3.11 then feel free to build the fonts from source using the 
 
 ![Transport Heavy](docs/images/transportheavy.png)
 
-The Transport Heavy font in this repository is based on a digitisation of the [working drawings](https://www.gov.uk/government/publications/traffic-signs-working-drawings-tsrgd-2016-schedule-17) of Transport Heavy on the UK Government website. I've gone for fidelity over consistency so curves have been fitted as closely as possible to the original and the spacing matches that of the drawings.
+Transport Heavy is the typeface used on road signs in the UK, specifically for rendering black text on a white background. The specification of the alphabet can be found in the [working drawings](https://www.gov.uk/government/publications/traffic-signs-working-drawings-tsrgd-2016-schedule-17) on the UK Government website. The font in this repository, AG Transport Heavy, is based on these working drawings.
 
-I have made no attempt to create new glyphs beyond those that exist in the original drawings. This implementation is not for you if you're hoping to use a nicely drawn typeface based on Transport Heavy e.g. for longer runs of text in a range of weights designed specifically for use in a variety of contexts. If, however, you want an accurate representation of Transport Heavy because you want to recreate your own road signs then this will absolutely do a brilliant job for you.
+I've gone for fidelity over consistency so curves have been fitted as closely as possible to the original and the spacing matches that of the drawings.
+
+I have made no attempt to create new glyphs beyond those that exist in the original drawings. This implementation is not for you if you're hoping to use a professional typeface specifically designed for longer runs of text in a range of weights for use in print or on the web. If, however, you want an accurate representation of Transport Heavy because you want to recreate your own road signs for graphic design purposes then this will absolutely do a brilliant job for you.
 
 Transport Heavy is Crown Copyright available under the Open Government Licence, and this work is derived from that.
 
@@ -28,17 +30,17 @@ Transport Heavy is Crown Copyright available under the Open Government Licence, 
 
 ![EI-TP Heavy](docs/images/eitpheavy.png)
 
-EI-TP Heavy is directly based on Transport Heavy. The Transport Heavy glyphs have been mechanically italicised by 15 degrees, and custom glyphs have been drawn for `A`, `M`, `N` and `i`.
+The EI-TP font is a version of Transport Heavy used to render Irish language text on road signs in Ireland. The glyphs in EI-TP are Transport Heavy glyphs that have been mechanically italicised by 15 degrees, although custom glyphs have been drawn for `A`, `M`, `N` and `i`.
 
 The specification of the alphabet can be found in Chapter 2 of the Irish Goverment's [Traffic Signs Manual](https://www.trafficsigns.ie/tsm-cur)
 
-My version is directly based on Transport Heavy with new drawings based roughly on the specification above. Some of those new glyphs are quite poorly drawn from a type design perspective so I have smoothed some of the curves in the upper case `A` and lower case `a`. Those new glyphs have some dubious spacing too, so I have kept a flavour of that in place.
+AG EI-TP is directly based on AG Transport Heavy with new drawings based roughly on the Traffic Signs Manual specification. Some of those new glyphs are quite poorly drawn from a type design perspective so I have smoothed some of the curves in the upper case `A` and lower case `a`. Those new glyphs have some dubious spacing too, so I have kept a flavour of that in place.
 
 ### EI-TP New Heavy
 
 ![EI-TP New Heavy](docs/images/eitpnewheavy.png)
 
-EI-TP New Heavy is an attempt by me to address some of the obvious quirks of EI-TP Heavy that frequently irk me whenever I drive in Ireland with my type nerd senses on full alert.
+EI-TP New Heavy is an attempt by me to address some of the obvious quirks of EI-TP Heavy that frequently annoy me whenever I drive in Ireland with my type nerd senses on full alert.
 
 EI-TP New Heavy improves on EI-TP Heavy in the following ways:
 
