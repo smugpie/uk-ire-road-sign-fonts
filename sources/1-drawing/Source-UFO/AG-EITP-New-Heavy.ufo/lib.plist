@@ -92,8 +92,19 @@
     <string>uni2191</string>
     <string>uni2193</string>
     <string>dotlessi</string>
-    <string>glyph88</string>
     <string>space</string>
+    <string>Aacute</string>
+    <string>Eacute</string>
+    <string>Iacute</string>
+    <string>Oacute</string>
+    <string>Uacute</string>
+    <string>aacute</string>
+    <string>eacute</string>
+    <string>iacute</string>
+    <string>oacute</string>
+    <string>uacute</string>
+    <string>acutecomb</string>
+    <string>acutecomb.case</string>
   </array>
 </dict>
 </plist>

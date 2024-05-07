@@ -14,13 +14,13 @@
       <point x="203" y="-15"/>
       <point x="254" y="-8"/>
       <point x="302" y="3" type="curve"/>
-      <point x="312" y="123" type="line"/>
-      <point x="291" y="120"/>
-      <point x="273" y="118"/>
-      <point x="263" y="118" type="curve" smooth="yes"/>
-      <point x="238" y="118"/>
-      <point x="231" y="130"/>
-      <point x="235" y="148" type="curve" smooth="yes"/>
+      <point x="309.725" y="117" type="line"/>
+      <point x="288.725" y="114"/>
+      <point x="270.725" y="112"/>
+      <point x="260.725" y="112" type="curve" smooth="yes"/>
+      <point x="235.725" y="112"/>
+      <point x="228.87" y="123.968"/>
+      <point x="232.725" y="142" type="curve" smooth="yes"/>
       <point x="352" y="700" type="line"/>
       <point x="214" y="700" type="line"/>
     </contour>

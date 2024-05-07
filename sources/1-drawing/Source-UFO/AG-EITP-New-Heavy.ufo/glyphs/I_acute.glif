@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Aacute" format="2">
-  <advance width="755"/>
-  <unicode hex="00C1"/>
+<glyph name="Iacute" format="2">
+  <advance width="386"/>
+  <unicode hex="00CD"/>
   <outline>
-    <component base="A"/>
-    <component base="acutecomb.case" xOffset="182.32" yOffset="5"/>
+    <component base="I"/>
+    <component base="acutecomb.case" xOffset="-16.0562" yOffset="5"/>
   </outline>
   <lib>
   <dict>
   <key>com.fontlab.autolayer</key>
   <true/>
   <key>com.fontlab.metricsLeft</key>
-  <string>A</string>
+  <string>I</string>
   <key>com.fontlab.metricsRight</key>
-  <string>A</string>
+  <string>I</string>
   <key>com.fontlab.recipe</key>
-  <string>A+acutecomb.case</string>
+  <string>I+acutecomb.case</string>
   </dict>
   </lib>
 </glyph>
