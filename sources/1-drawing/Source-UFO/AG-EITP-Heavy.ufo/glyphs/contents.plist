@@ -68,6 +68,8 @@
   <string>Z_.glif</string>
   <key>a</key>
   <string>a.glif</string>
+  <key>aacute</key>
+  <string>aacute.glif</string>
   <key>acutecomb</key>
   <string>acutecomb.glif</string>
   <key>acutecomb.case</key>
@@ -88,6 +90,8 @@
   <string>dotlessi.glif</string>
   <key>e</key>
   <string>e.glif</string>
+  <key>eacute</key>
+  <string>eacute.glif</string>
   <key>eight</key>
   <string>eight.glif</string>
   <key>f</key>
@@ -104,6 +108,8 @@
   <string>hyphen.glif</string>
   <key>i</key>
   <string>i.glif</string>
+  <key>iacute</key>
+  <string>iacute.glif</string>
   <key>j</key>
   <string>j.glif</string>
   <key>k</key>
@@ -118,6 +124,8 @@
   <string>nine.glif</string>
   <key>o</key>
   <string>o.glif</string>
+  <key>oacute</key>
+  <string>oacute.glif</string>
   <key>one</key>
   <string>one.glif</string>
   <key>onehalf</key>
@@ -172,6 +180,8 @@
   <string>twothirds.glif</string>
   <key>u</key>
   <string>u.glif</string>
+  <key>uacute</key>
+  <string>uacute.glif</string>
   <key>uni2032</key>
   <string>uni2032.glif</string>
   <key>uni2033</key>

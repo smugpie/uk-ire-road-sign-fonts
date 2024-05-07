@@ -100,6 +100,11 @@
     <string>Iacute</string>
     <string>Oacute</string>
     <string>Uacute</string>
+    <string>aacute</string>
+    <string>eacute</string>
+    <string>iacute</string>
+    <string>oacute</string>
+    <string>uacute</string>
   </array>
 </dict>
 </plist>
