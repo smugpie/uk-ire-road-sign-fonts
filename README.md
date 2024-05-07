@@ -51,3 +51,10 @@ EI-TP New Heavy improves on EI-TP Heavy in the following ways:
 - The `A` has been redrawn and is wider to make it match the characteristics of similar glyphs like `C`
 - The `a` has been redrawn and is wider to make it match the characteristics of similar glyphs like `d`
 - The `M` and `N` have been redrawn and are wider
+
+## What fonts are not included?
+
+- Transport Medium: a lighter weight of Transport Heavy, used in the UK to render lighter coloured text on darker backgrounds
+- Motorway Permanent and Temporary - a smaller alphabet used to render route numbers on motorway signage
+
+I might get round to some of the above at some point. But then again I might not.
