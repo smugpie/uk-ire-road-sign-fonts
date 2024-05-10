@@ -123,6 +123,8 @@
   <array>
     <integer>-20</integer>
     <integer>0</integer>
+    <integer>500</integer>
+    <integer>520</integer>
   </array>
   <key>postscriptFontName</key>
   <string>AGTransport-Heavy</string>
@@ -132,6 +134,11 @@
   <string>AG Transport Heavy</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
+  <key>postscriptStemSnapV</key>
+  <array>
+    <integer>137</integer>
+    <integer>143</integer>
+  </array>
   <key>postscriptUnderlinePosition</key>
   <integer>-100</integer>
   <key>postscriptUnderlineThickness</key>
