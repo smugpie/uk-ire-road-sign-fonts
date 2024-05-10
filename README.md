@@ -22,9 +22,7 @@ Transport Heavy is the typeface used on road signs in the UK, specifically for r
 
 I've gone for fidelity over consistency so curves have been fitted as closely as possible to the original and the spacing matches that of the drawings.
 
-I have made no attempt to create new glyphs beyond those that exist in the original drawings. This implementation is not for you if you're hoping to use a professional typeface specifically designed for longer runs of text in a range of weights for use in print or on the web. If, however, you want an accurate representation of Transport Heavy because you want to recreate your own road signs for graphic design purposes then this will absolutely do a brilliant job for you.
-
-Transport Heavy is Crown Copyright available under the Open Government Licence, and this work is derived from that.
+I have made no attempt to create new glyphs beyond those that exist in the original drawings. This implementation is not for you if you're hoping to use this font for long runs of text in a range of weights for use in print or on the web. If, however, you want an accurate representation of Transport Heavy because you want to recreate your own road signs for graphic design purposes then this will absolutely do a brilliant job for you. Please also review the [government guidance](https://www.gov.uk/guidance/traffic-sign-images) to see if this is the right font for you.
 
 ### EI-TP Heavy
 
@@ -58,3 +56,9 @@ EI-TP New Heavy improves on EI-TP Heavy in the following ways:
 - Motorway Permanent and Temporary - a smaller alphabet used to render route numbers on motorway signage
 
 I might get round to some of the above at some point. But then again I might not.
+
+## License
+
+The working drawings of Transport Heavy are Crown Copyright available under the Open Government Licence.
+
+The fonts in this repository are derived from those drawings.
